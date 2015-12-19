@@ -4,6 +4,7 @@
 This describes how the project script works.
 
 *The first block of code reads and compiles the "test" data and tags all the observations as "test" observations.
+
 *The second block of code reads and compiles the "train" data and tags all the observations as "train" observations.
 *The third block of data compiles the "test" and "train" data sets and merges to get the descriptive activity labels.
 *The fourth block of data creates a list of labels to be applied to the data variables.
